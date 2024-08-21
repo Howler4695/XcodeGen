@@ -77,8 +77,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Howler4695/XcodeProj.git",
       "state" : {
-        "revision" : "b7423fab9142aff1635a15d35bf954fcff16f9fb",
-        "version" : "1.0.0-test"
+        "revision" : "4f80e01b2fb33e7572a937d2b91a785e648c40b4",
+        "version" : "8.22.0-beta"
       }
     },
     {
